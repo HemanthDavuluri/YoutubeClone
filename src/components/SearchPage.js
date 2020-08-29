@@ -1,10 +1,12 @@
 import React from 'react'
 import '../css/SearchPage.css'
 
-function SearchPage() {
+function SearchPage({term}) {
+  
+
     return (
         <div className='searchPage'>
-            hey this is seach
+            hey this is {term}
         </div>
     )
 }

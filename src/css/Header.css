@@ -26,14 +26,15 @@
 .header_center>input {
     flex: 1;
     border: none;
-
+    outline: none;
 }
+
 
 .header_center_search_icon {
     width: 50px !important;
     background-color: #fafafa;
     border-left: 1px solid lightgray;
-    color: gray;
+    color: black;
 }
 
 
@@ -45,4 +46,9 @@
 
 .header_right_icon {
     margin-right: 8px;
+}
+
+.searchbutton {
+    border: none;
+    background-color: #fafafa;
 }
