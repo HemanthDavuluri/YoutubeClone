@@ -21,7 +21,7 @@ function App() {
           <Route path="/search/:searchTerm">
             <div className="app_page">
               <Sidebar />
-              <SearchPage term={searchTerm}/>
+              <SearchPage term={searchTerm} />
             </div>
           </Route>
           <Route path="/">
