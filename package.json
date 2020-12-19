@@ -33,5 +33,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "Index.js",
+  "repository": "https://github.com/HemanthDavuluri/YoutubeClone",
+  "author": "Hemanth Chowdary <hemanthdavuluri98@gmail.com>",
+  "license": "MIT"
 }
